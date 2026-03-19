@@ -1,0 +1,18 @@
+{
+  "name": "Nexus Store V29",
+  "short_name": "NexusV29",
+  "description": "Painel de Injeção Nexus Store",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#bc13fe",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/generativeai-static/image_generation_content/0/image.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
